@@ -53,6 +53,7 @@
  - 2017-04-30 “人文清华 源远流长”清华经典名篇朗诵音乐会
  - 2017-04    参加2017年校庆期间的民乐草坪音乐会，独立担当半场演出
  - 2017-01-12 [“一起来！” 清华校友合唱团2017 新年音乐会](http://mp.weixin.qq.com/s/P_PwpkuSUAEeSmF_Bo2Tpg)
+ - 2016-05-27 [《百鸟朝凤》清华观影活动演出](https://mp.weixin.qq.com/s/1BEc1he3RRqxHrXfY9h6aQ)
  - 2016-04    参加2016年校庆期间的民乐草坪音乐会，独立担当半场演出
  - 2016-04-02 [清华校友总会: “知音雅集”清华校友民乐团简介](http://www.tsinghua.org.cn/publish/alumni/4000350/%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E6%B0%91%E4%B9%90%E5%9B%A2.html)
  - 2015-06-30 [“追寻历史、锻造梦想”纪念抗日战争胜利70周年诗文朗诵音乐会](https://mp.weixin.qq.com/s/y6buKpIGLwz5-P7hRElIYQ)
