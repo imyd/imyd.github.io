@@ -21,11 +21,6 @@
 	 - 《红楼梦组曲-晴雯歌》 [网易](http://music.163.com/video?id=DC12C7B18A7F55B42E18F0346E1E956C) [YouTube](https://youtu.be/GwdUF_sYG5Q)
  - 2017/10/22《苏堤漫步》(中关村录音版) [网易](http://music.163.com/video?id=24CC37F72D430FB26753BC66E6555B29) [YouTube]()
 
-## Wish List
-
- - [ ] 西游记组曲
- - [ ] Secret Garden - Feat Ding Fei Fei - My Irish Friends
- - [ ] 仙剑奇侠传组曲
 
 ## Projects
 
@@ -42,6 +37,13 @@
  - 参加了在新清华学堂举办的“三聲缘”二零一四民族管弦乐新年音乐会，乐团独立演奏民族交响乐《酒歌》，并和清华大学民乐队一起演奏《瑶族舞曲》。
  - 2014-04  参加2014年校庆期间的民乐草坪音乐会，独立担当下半场的演出。
  - 2014-12-17 [清华校友总会:“知音雅集”清华校友民乐团举办“宫调雍和”沙龙音乐会](http://www.tsinghua.org.cn/publish/alumni/4000342/10088275.html)
+
+## Wish List
+
+ - [ ] 西游记组曲
+ - [ ] Secret Garden - Feat Ding Fei Fei - My Irish Friends
+ - [ ] 仙剑奇侠传组曲
+ - [ ] 一个固定的演出场地
 
 ## Gallery
 
