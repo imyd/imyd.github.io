@@ -22,9 +22,6 @@
  - 2017/10/22《苏堤漫步》(中关村录音版) [网易](http://music.163.com/video?id=24CC37F72D430FB26753BC66E6555B29) [YouTube]()
 
 
-## Projects
-
- - <https://github.com/dovecho/Jianpu>
 
 ## Members
 
@@ -51,7 +48,11 @@
 
 ### Patents
 
-### Music Scores
+### Original Music Scores
+
+## Projects
+
+ - <https://github.com/dovecho/Jianpu>
 
 ## Contact
 
@@ -61,6 +62,3 @@
 
 ## Donate
 
-<p align="center">
-  <img style="max-width:80px" src="https://imyd.github.io/logo.png" alt="Logo"/>
-</p>
