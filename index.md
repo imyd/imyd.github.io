@@ -45,7 +45,7 @@
 ## Wish List
 
  - [ ] 西游记组曲
- - [ ] Secret Garden - Feat Ding Fei Fei - My Irish Friends
+ - [ ] [Secret Garden - Feat Ding Fei Fei - My Irish Friends](http://music.163.com/#/song?id=4278365)
  - [ ] 仙剑奇侠传组曲
  - [ ] 一个固定的演出场地
 
