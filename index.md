@@ -54,6 +54,7 @@
 ## Projects
 
  - <https://github.com/dovecho/Jianpu>
+ - <https://github.com/scateu/thumydscore>
 
 ## Contact
 
