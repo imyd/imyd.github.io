@@ -29,6 +29,7 @@
 
 “知音雅集”清华校友民乐团成立于2013年7月，由清华大学民乐队的校友发起组建，是一支以清华校友为主体、多所院校校友共同合作组建的业余民族管弦乐团。 清华校友民乐团建制齐全、表演风格多样，团员们怀着对音乐的热忱，利用业余时间，排练和演出了多首合奏和独奏曲目，如民族管弦乐作品《酒歌》《红楼梦组曲》，民族器乐小合奏《战马奔腾》《弹词韵》《葡萄熟了》等等，在追求音乐梦想的同时，为大学校园与校友之间的交流搭起一座音乐之桥。
 
+ - 2017-12-24 [“红楼梦江南”沙龙音乐会](https://mp.weixin.qq.com/s?timestamp=1514267956&src=3&ver=1&signature=1AmSeWWO7*A4fGPuEIkzXPv54NaW4i7AgzoqCT-8rHtOOLWkmCRa8trX-n3IYw5D38Ph4mvuSq1oCG*mcZmu8FDb4w3DBuAhM2QHCU9WRgh9eqcR-D5VcJvyS6DiVHS5J7ec44nCl098dWphED-Re-T6lXs6ottKOLcn5OFu5qg=)
  - 2017-12-22 [国家大剧院: “十年——艺路有你”会员活动](https://m.weibo.cn/status/4187711537133573)
  - 2017-04-30 “人文清华 源远流长”清华经典名篇朗诵音乐会
  - 2017-04    参加2017年校庆期间的民乐草坪音乐会，独立担当半场的演出
