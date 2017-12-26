@@ -56,9 +56,9 @@
 
 ## Contact
 
- - 乐团联系邮箱  minyue@tsinghua.org.cn
- - 乐团微信公众号  zhiyinyaji
- - [刘沫](mailto:liumo@tsinghua.edu.cn)   +86-10-62772155 +86-13661389014
+ - 乐团联系邮箱 [minyue@tsinghua.org.cn](mailto:minyue@tsinghua.org.cn)
+ - 微信公众号 [zhiyinyaji](https://mp.weixin.qq.com/profile?src=3&timestamp=1514265414&ver=1&signature=hD5GFib0g7XCEZO9N-I*toqXEqLqbKZSHXyWO-Og-iLVH-W4KRi0RHQCUJHWoy4lMBdNbKBWMQOH-c2whWPhQw==)
+ - 团长: [刘沫](mailto:liumo@tsinghua.edu.cn)   `+86-10-62772155` `+86-13661389014`
  - 如本页面需要更新，请联系[王康](mailto:scateu@gmail.com?subject=知音雅集GitHub Pages更新请求)
 
 ## Donate
