@@ -29,6 +29,7 @@
 
 “知音雅集”清华校友民乐团成立于2013年7月，由清华大学民乐队的校友发起组建，是一支以清华校友为主体、多所院校校友共同合作组建的业余民族管弦乐团。 清华校友民乐团建制齐全、表演风格多样，团员们怀着对音乐的热忱，利用业余时间，排练和演出了多首合奏和独奏曲目，如民族管弦乐作品《酒歌》《红楼梦组曲》，民族器乐小合奏《战马奔腾》《弹词韵》《葡萄熟了》等等，在追求音乐梦想的同时，为大学校园与校友之间的交流搭起一座音乐之桥。
 
+ - 2017-01-12 [“一起来！” 清华校友合唱团2017 新年音乐会](https://mp.weixin.qq.com/s?__biz=MjM5MzYxMzQ0MQ==&mid=2457529982&idx=1&sn=5b6c0e2af5bc7efe93bc42b524039fd5&chksm=b11a1d90866d948650e5f45e7a2a4d798c409ea526dcd9ac7f8807b53fbf1f8ed8170e4300d6&mpshare=1&scene=1&srcid=1226OfNdf8p3fUwByJ14NCV5&pass_ticket=Ahnx%2FjieCITqKL3VHZFtcYG65jkajuNGaQLqYGYfXwTD0OInJ9XFakSt%2FIyHPsYD#rd)
  - 2017-12-22 [国家大剧院: “十年——艺路有你”会员活动](https://m.weibo.cn/status/4187711537133573?sourceType=weixin&from=groupmessage&wm=9006_2001&featurecode=newtitle&sudaref=wx.qq.com&display=0&retcode=6102)
  - 2016-04-02 [清华校友总会: “知音雅集”清华校友民乐团简介](http://www.tsinghua.org.cn/publish/alumni/4000350/%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E6%B0%91%E4%B9%90%E5%9B%A2.html)
  - 2015-01  举办“笛阮合鸣”沙龙讲座，邀请了中央民族广播民乐团的知名笛子演奏家张辉等来进行讲解和示范。
