@@ -32,15 +32,15 @@
  - 2017-12-24 [“红楼梦江南”沙龙音乐会](https://mp.weixin.qq.com/s?timestamp=1514267956&src=3&ver=1&signature=1AmSeWWO7*A4fGPuEIkzXPv54NaW4i7AgzoqCT-8rHtOOLWkmCRa8trX-n3IYw5D38Ph4mvuSq1oCG*mcZmu8FDb4w3DBuAhM2QHCU9WRgh9eqcR-D5VcJvyS6DiVHS5J7ec44nCl098dWphED-Re-T6lXs6ottKOLcn5OFu5qg=)
  - 2017-12-22 [国家大剧院: “十年——艺路有你”会员活动](https://m.weibo.cn/status/4187711537133573)
  - 2017-04-30 “人文清华 源远流长”清华经典名篇朗诵音乐会
- - 2017-04    参加2017年校庆期间的民乐草坪音乐会，独立担当半场的演出
+ - 2017-04    参加2017年校庆期间的民乐草坪音乐会，独立担当半场演出
  - 2017-01-12 [“一起来！” 清华校友合唱团2017 新年音乐会](http://mp.weixin.qq.com/s/P_PwpkuSUAEeSmF_Bo2Tpg)
  - 2016-04    参加2016年校庆期间的民乐草坪音乐会，独立担当半场演出
  - 2016-04-02 [清华校友总会: “知音雅集”清华校友民乐团简介](http://www.tsinghua.org.cn/publish/alumni/4000350/%E6%B8%85%E5%8D%8E%E6%A0%A1%E5%8F%8B%E6%B0%91%E4%B9%90%E5%9B%A2.html)
  - 2015-06-30 [“追寻历史、锻造梦想”纪念抗日战争胜利70周年诗文朗诵音乐会](https://mp.weixin.qq.com/s/y6buKpIGLwz5-P7hRElIYQ)
- - 2015-04    参加2015年校庆期间的民乐草坪音乐会，独立担当半场的演出
+ - 2015-04    参加2015年校庆期间的民乐草坪音乐会，独立担当半场演出
  - 2015-01    举办“笛阮合鸣”沙龙讲座，邀请了中央民族广播民乐团的知名笛子演奏家张辉等来进行讲解和示范。
  - 2014-12-17 [清华校友总会:“知音雅集”清华校友民乐团举办“宫调雍和”沙龙音乐会](http://www.tsinghua.org.cn/publish/alumni/4000342/10088275.html)
- - 2014-04    参加2014年校庆期间的民乐草坪音乐会，独立担当下半场的演出
+ - 2014-04    参加2014年校庆期间的民乐草坪音乐会，独立担当下半场演出
  - 2014-01    参加在新清华学堂举办的“三聲缘”二零一四民族管弦乐新年音乐会，乐团独立演奏民族交响乐[《酒歌》](http://v.youku.com/v_show/id_XNjUxOTk4NTE2.html)，并和清华大学民乐队一起演奏《瑶族舞曲》。
 
 ## Wish List
