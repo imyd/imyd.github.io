@@ -58,7 +58,7 @@
 
  - 乐团联系邮箱  minyue@tsinghua.org.cn
  - 乐团微信公众号  zhiyinyaji
- - [刘沫](mailto:liumo@tsinghua.edu.cn)   010-62772155 13661389014
+ - [刘沫](mailto:liumo@tsinghua.edu.cn)   +86-10-62772155 +86-13661389014
 
 ## Donate
 
