@@ -82,6 +82,7 @@
 
  - <https://github.com/dovecho/Jianpu>
  - <https://github.com/scateu/thumydscore>
+ - <https://github.com/scateu/AutoCAB>
 
 ## Contact
 
