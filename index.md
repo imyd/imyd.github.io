@@ -21,8 +21,6 @@
 	 - 《红楼梦组曲-晴雯歌》 [网易](http://music.163.com/video?id=DC12C7B18A7F55B42E18F0346E1E956C) [YouTube](https://youtu.be/GwdUF_sYG5Q)
  - 2017/10/22《苏堤漫步》(中关村录音版) [网易](http://music.163.com/video?id=24CC37F72D430FB26753BC66E6555B29) [YouTube](https://youtu.be/Kr9GSKutAzo)
 
-
-
 ## Members
 
 ### 打击声部
@@ -61,7 +59,7 @@
  - 2015-01    举办“笛阮合鸣”沙龙讲座，邀请中国广播民族乐团的知名笛子演奏家张辉等进行讲解和示范
  - 2014-12-17 [清华校友总会:“知音雅集”清华校友民乐团举办“宫调雍和”沙龙音乐会](http://www.tsinghua.org.cn/publish/alumni/4000342/10088275.html)
  - 2014-04    参加2014年校庆民乐草坪音乐会，独立担当下半场演出
- - 2013-12-22 参加在新清华学堂举办的“三声缘”二〇一四民族管弦乐新年音乐会，演奏民族交响乐[《酒歌》](http://v.youku.com/v_show/id_XNjUxOTk4NTE2.html)，并和清华大学民乐队一起演奏《瑶族舞曲》
+ - 2013-12-22 参加在新清华学堂举办的“三声缘”二〇一四民族管弦乐新年音乐会，演奏民族交响乐《酒歌》([1](http://v.youku.com/v_show/id_XNjUxOTk4NTE2.html) [2](https://mp.weixin.qq.com/s/LcQgstu09LZ3BNkdZqX2KA))，并和清华大学民乐队一起演奏《瑶族舞曲》
 
 ## Wish List
 
