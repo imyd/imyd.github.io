@@ -16,7 +16,7 @@
 	 - 开场 [网易](http://music.163.com/video?id=B226B515882731B8BA4EC41E8A46A027) [YouTube](https://youtu.be/NXiIyc06W1M)
 	 - 《苏堤漫步》 [网易](http://music.163.com/video?id=8C9F17583D08FB430313F17E27FBA81F) [YouTube](https://youtu.be/ehC4aqnH85o)
 	 - 《闲居吟》- 邢晔 [网易](http://music.163.com/video?id=6238B968BB72208735235B5FCCE7EC39) [YouTube](https://youtu.be/cP19LHAr_zE) [(Audio Only)](https://youtu.be/xhzXq1m2iLc)
-	 - 《翠语》- 李碧玉 [网易](http://music.163.com/video?id=40F72978736ACB5783BD96EC2CA4B4C3) [YouTube](https://youtu.be/Bl8SXGt9YXk)
+	 - 《翠语》- 李碧玉 [YouTube](https://youtu.be/Bl8SXGt9YXk)
 	 - 《我是一个兵》- 公若权 [网易](http://music.163.com/video?id=B1CD2303708378C2972D505066E35F03) [YouTube](https://youtu.be/aDpd_Q3jpOs)
 	 - 《春景》 - 王坦/陈黎 [网易](http://music.163.com/video?id=EB98CB35EAC1FFCAF85A3891AD772EBA) [YouTube](https://youtu.be/ydtblE_8ZE0)
 	 - 《三六》 [网易](http://music.163.com/video?id=953BBA66E1C46EB629CEFA9EBC24DA0A) [YouTube]()
