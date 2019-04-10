@@ -7,7 +7,7 @@
 	 - 《龙船》[网易](http://music.163.com/video?id=9FC5C3368B14BF620318BA47B87554C6) [Youtube](https://youtu.be/nrz4or3gfFo)
 	 - 《闲居吟》 [网易](http://music.163.com/video?id=916FDD9510097B0857EB8A91BAAB4331) [Youtube](https://youtu.be/rYVPan8BYOU)
 	 - 《Shan Yu Huan》 [Youtube](https://youtu.be/bF10eLm4BZQ)
- - 2018/01/29 人民日报社新媒体大厦一号演播厅 《弹词韵》 [网易](https://music.163.com/#/video?id=EC58152F13B8FB4630E6F6085A7BA533)
+ - 2018/01/29 人民日报社新媒体大厦一号演播厅 《弹词韵》 [网易](https://music.163.com/#/video?id=EC58152F13B8FB4630E6F6085A7BA533) [Youtube](https://youtu.be/RdmS90iaQZI)
  - 2018/01/08  国家大剧院
 	 - 《战马奔腾》[网易](http://music.163.com/#/video?id=014F4C2FC1BF704E052059F5BEEFD6C9)
 	 - 《瑶族舞曲》[网易](http://music.163.com/#/video?id=2C45BF487D6BD0EFC50EA9D7C406E5FC)  (Sample)
