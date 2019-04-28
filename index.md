@@ -3,7 +3,7 @@
 </p>
 
 ## Recordings
- - 2019/04/27  清华大学108年校庆 草坪音乐会 | 《射雕英雄》上半场 下半场  | [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA)
+ - 2019/04/27  清华大学108年校庆 草坪音乐会 \| 《射雕英雄》上半场 下半场  \| [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA)
  - 2018/04/28  清华大学蒙民伟楼
 	 - 《龙船》[网易](http://music.163.com/video?id=9FC5C3368B14BF620318BA47B87554C6) [Youtube](https://youtu.be/nrz4or3gfFo)
 	 - 《闲居吟》 [网易](http://music.163.com/video?id=916FDD9510097B0857EB8A91BAAB4331) [Youtube](https://youtu.be/rYVPan8BYOU)
