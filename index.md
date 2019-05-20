@@ -3,6 +3,7 @@
 </p>
 
 ## Recordings
+ - 2019/05/19  公开排练 [Youtube](https://youtu.be/y-037P5b1zg)
  - 2019/04/27  清华大学108年校庆 音乐会 
 	 - [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
 	 - Youtube: [草坪](https://youtu.be/ZfZFJ5XqyDg) \| 《射雕英雄》[上半场](https://youtu.be/9jQuVqhq5T4) \| [下半场](https://youtu.be/n9vdhgXixJM) \| [《三六》](https://youtu.be/K8ZEa8cD7Bw)
