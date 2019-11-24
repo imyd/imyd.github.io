@@ -3,6 +3,7 @@
 </p>
 
 ## Recordings
+ - 2019/11/24  公开排练 [Bilibili](https://www.bilibili.com/video/av76862668/) [AcFun](https://www.acfun.cn/v/ac11737519)
  - 2019/11/17  公开排练 [Bilibili](https://www.bilibili.com/video/av76022694/)
  - 2019/05/19  公开排练 [Youtube](https://youtu.be/y-037P5b1zg)
  - 2019/04/27  清华大学108年校庆 音乐会 
