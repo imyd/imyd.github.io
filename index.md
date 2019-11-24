@@ -3,11 +3,16 @@
 </p>
 
 ## Recordings
- - 2019/11/24  公开排练 [Bilibili](https://www.bilibili.com/video/av76862668/) [AcFun](https://www.acfun.cn/v/ac11737519)
- - 2019/11/17  公开排练 [Bilibili](https://www.bilibili.com/video/av76022694/)
+ - 2019/11/24  公开排练 [B站](https://www.bilibili.com/video/av76862668/) [A站](https://www.acfun.cn/v/ac11737519)
+ - 2019/11/17  公开排练 [B站](https://www.bilibili.com/video/av76022694/)
+ - 2019/06/30  公开排练
+     - 三六: [B站](https://www.bilibili.com/video/av76902492?p=8) 
+     - 敦煌1: [B站](https://www.bilibili.com/video/av76902492?p=9)
+     - 敦煌2: [B站](https://www.bilibili.com/video/av76902492?p=10)
  - 2019/05/19  公开排练 [Youtube](https://youtu.be/y-037P5b1zg)
  - 2019/04/27  清华大学108年校庆 音乐会 
 	 - [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
+	 - B站: [草坪](https://www.bilibili.com/video/av76902492/) \| [三六](https://www.bilibili.com/video/av76902492?p=3) \| [上半场](https://www.bilibili.com/video/av76902492?p=4) \| [下半场](https://www.bilibili.com/video/av76902492?p=5) \| [花絮: 三重斗](https://www.bilibili.com/video/av76902492?p=6) \| [花絮: 张三丰](https://www.bilibili.com/video/av76902492?p=7) 
 	 - Youtube: [草坪](https://youtu.be/ZfZFJ5XqyDg) \| 《射雕英雄》[上半场](https://youtu.be/9jQuVqhq5T4) \| [下半场](https://youtu.be/n9vdhgXixJM) \| [《三六》](https://youtu.be/K8ZEa8cD7Bw)
  - 2018/04/28  清华大学蒙民伟楼
 	 - 《龙船》[网易](http://music.163.com/video?id=9FC5C3368B14BF620318BA47B87554C6) [Youtube](https://youtu.be/nrz4or3gfFo)
