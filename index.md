@@ -5,6 +5,7 @@
 ## Recordings
  - 2019/11/24  公开排练 [B站](https://www.bilibili.com/video/av76862668/) [A站](https://www.acfun.cn/v/ac11737519)
  - 2019/11/17  公开排练 [B站](https://www.bilibili.com/video/av76022694/)
+ - 2019/10/20  公开排练 (5min Sample) [B站](https://www.bilibili.com/video/av76902492?p=2)
  - 2019/06/30  公开排练
      - 三六: [B站](https://www.bilibili.com/video/av76902492?p=8) 
      - 敦煌1: [B站](https://www.bilibili.com/video/av76902492?p=9)
