@@ -11,8 +11,7 @@
      - 《敦煌》-1: [B站](https://www.bilibili.com/video/av76902492?p=9) \| [Youtube](https://youtu.be/Oohj81Kv_JM)
      - 《敦煌》-2: [B站](https://www.bilibili.com/video/av76902492?p=10) \| [Youtube](https://youtu.be/Nul3gHfZDik)
  - 2019/05/19  公开排练 [Youtube](https://youtu.be/y-037P5b1zg)
- - 2019/04/27  清华大学108年校庆 音乐会 
-	 - [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
+ - 2019/04/27  清华大学108年校庆 音乐会 : [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
 	 - B站: [草坪](https://www.bilibili.com/video/av76902492/) \| [《三六》](https://www.bilibili.com/video/av76902492?p=3) \| [上半场](https://www.bilibili.com/video/av76902492?p=4) \| [下半场](https://www.bilibili.com/video/av76902492?p=5) \| [花絮: 三重斗](https://www.bilibili.com/video/av76902492?p=6) \| [花絮: 张三丰](https://www.bilibili.com/video/av76902492?p=7) 
 	 - Youtube: [草坪](https://youtu.be/ZfZFJ5XqyDg) \| 《射雕英雄》[上半场](https://youtu.be/9jQuVqhq5T4) \| [下半场](https://youtu.be/n9vdhgXixJM) \| [《三六》](https://youtu.be/K8ZEa8cD7Bw)
  - 2018/04/28  清华大学蒙民伟楼
@@ -24,7 +23,7 @@
 	 - 《战马奔腾》[网易](http://music.163.com/#/video?id=014F4C2FC1BF704E052059F5BEEFD6C9)
 	 - 《瑶族舞曲》[网易](http://music.163.com/#/video?id=2C45BF487D6BD0EFC50EA9D7C406E5FC)  (Sample)
 	 - 《苏堤漫步》[网易](http://music.163.com/#/video?id=E6FCF6E9651D7E139EF8B06A10446594)
- - 2017/12/24 "红楼梦江南" 沙龙音乐会 [咪咕](http://music.migu.cn/v2/music/album/1108563239) [YouTube](https://www.youtube.com/playlist?list=PL7A9QQ4r9GMkBKItLDu5MHn5YjqqyO0do)
+ - 2017/12/24 "红楼梦江南" 沙龙音乐会 <del>[咪咕](http://music.migu.cn/v2/music/album/1108563239)</del> [YouTube](https://www.youtube.com/playlist?list=PL7A9QQ4r9GMkBKItLDu5MHn5YjqqyO0do)
 	 - 开场 [网易](http://music.163.com/video?id=B226B515882731B8BA4EC41E8A46A027) [YouTube](https://youtu.be/NXiIyc06W1M)
 	 - 《苏堤漫步》 [网易](http://music.163.com/video?id=8C9F17583D08FB430313F17E27FBA81F) [YouTube](https://youtu.be/ehC4aqnH85o)
 	 - 《闲居吟》- 邢晔 [网易](http://music.163.com/video?id=6238B968BB72208735235B5FCCE7EC39) [YouTube](https://youtu.be/cP19LHAr_zE) [(Audio Only)](https://youtu.be/xhzXq1m2iLc)
