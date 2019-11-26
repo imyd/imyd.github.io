@@ -8,8 +8,8 @@
  - 2019/10/20  公开排练 (5min Sample) [B站](https://www.bilibili.com/video/av76902492?p=2) \| [Youtube](https://youtu.be/6gUgQCwBOn4)
  - 2019/06/30  公开排练
      - 《三六》: [B站](https://www.bilibili.com/video/av76902492?p=8) \| [Youtube](https://youtu.be/I5A5QdcD4gs) 
-     - 《敦煌》-1: [B站](https://www.bilibili.com/video/av76902492?p=9) \| [Youtube](https://youtu.be/Oohj81Kv_JM)
-     - 《敦煌》-2: [B站](https://www.bilibili.com/video/av76902492?p=10) \| [Youtube](https://youtu.be/Nul3gHfZDik)
+     - 《敦煌》1/2: [B站](https://www.bilibili.com/video/av76902492?p=9) \| [Youtube](https://youtu.be/Oohj81Kv_JM)
+     - 《敦煌》2/2: [B站](https://www.bilibili.com/video/av76902492?p=10) \| [Youtube](https://youtu.be/Nul3gHfZDik)
  - 2019/05/19  公开排练 [Youtube](https://youtu.be/y-037P5b1zg)
  - 2019/04/27  清华大学108年校庆 音乐会 : [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
 	 - B站: [草坪](https://www.bilibili.com/video/av76902492/) \| [《三六》](https://www.bilibili.com/video/av76902492?p=3) \| [上半场](https://www.bilibili.com/video/av76902492?p=4) \| [下半场](https://www.bilibili.com/video/av76902492?p=5) \| [花絮: 三重斗](https://www.bilibili.com/video/av76902492?p=6) \| [花絮: 张三丰](https://www.bilibili.com/video/av76902492?p=7) 
