@@ -3,7 +3,7 @@
 </p>
 
 ## Recordings
- - 2019/12/07  公开排练 [B站](https://www.bilibili.com/video/av78373772) \| [A站](https://www.acfun.cn/v/ac11879856) \| [Youtube]()
+ - 2019/12/07  公开排练 [B站](https://www.bilibili.com/video/av78373772) \| [A站](https://www.acfun.cn/v/ac11879856) \| [Youtube](https://youtu.be/VTw2LB-j3i0)
  - 2019/11/30  公开排练 [B站](https://www.bilibili.com/video/av77706666/) \| [A站](https://www.acfun.cn/v/ac11805209) \| [Youtube](https://youtu.be/KOY3J-1g1Wo)
  - 2019/11/24  公开排练 [B站](https://www.bilibili.com/video/av76862668/) \| [A站](https://www.acfun.cn/v/ac11737519) \| [Youtube](https://youtu.be/5LJqGVy959E)
  - 2019/11/17  公开排练 [B站](https://www.bilibili.com/video/av76022694/) \| [Youtube](https://youtu.be/bXT0BwOK2M0)
