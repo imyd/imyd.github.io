@@ -2,8 +2,11 @@
   <img style="max-width:80px" src="https://imyd.github.io/logo.png" alt="Logo"/>
 </p>
 
-## Recordings
+## Next Event
+
  - 2020/01/05 蒙民伟楼(西操旁边)二楼 14:00 (UTC+8)  直播链接: \| [快手]() \| [B站]() \| [Youtube]()
+
+## Recordings
  - 2019/12/28 公开排练 [B站](https://www.bilibili.com/video/av81001642/) \| [A站](https://www.acfun.cn/v/ac12180775) \| [Youtube]()
  - 2019/12/21  公开排练
    - 江楼望月 [B站](https://www.bilibili.com/video/av80192237/)  \| [A站](https://www.acfun.cn/v/ac12120212) \| [Youtube](https://youtu.be/M3BtjYIqJDM)
