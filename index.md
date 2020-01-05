@@ -8,7 +8,7 @@
 
 ## Recordings
 
- - 2020/01/05 14:00 张大森先生纪念音乐会 清华大学蒙民伟楼多功能厅  [B站](https://www.bilibili.com/video/av82237312/) \| [A站]() \| [Youtube](https://youtu.be/4oUoX_ib7SI) 
+ - 2020/01/05 14:00 张大森先生纪念音乐会 清华大学蒙民伟楼多功能厅  [B站](https://www.bilibili.com/video/av82237312/) \| [A站](https://www.acfun.cn/v/ac12249029) \| [Youtube](https://youtu.be/4oUoX_ib7SI) 
  - 2019/12/28 公开排练 [B站](https://www.bilibili.com/video/av81001642/) \| [A站](https://www.acfun.cn/v/ac12180775) \| [Youtube]()
  - 2019/12/21  公开排练
    - 江楼望月 [B站](https://www.bilibili.com/video/av80192237/)  \| [A站](https://www.acfun.cn/v/ac12120212) \| [Youtube](https://youtu.be/M3BtjYIqJDM)
