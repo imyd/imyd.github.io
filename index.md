@@ -5,7 +5,7 @@
 ## Next Event
 
  - 2020/01/05 蒙民伟楼(西操旁边)二楼 14:00 (UTC+8) 免票入场 
-     - 直播链接:  [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a) \| [B站](https://live.bilibili.com/21412369?visit_id=59loz690ceps) \| [Youtube]()
+     - 直播链接:  [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a) \| [B站](https://live.bilibili.com/21412369) \| [Youtube](https://youtu.be/4oUoX_ib7SI)
 
 ## Recordings
  - 2019/12/28 公开排练 [B站](https://www.bilibili.com/video/av81001642/) \| [A站](https://www.acfun.cn/v/ac12180775) \| [Youtube]()
