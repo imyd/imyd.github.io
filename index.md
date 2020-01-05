@@ -158,12 +158,12 @@
 
 ### 邮局汇款
 
-	- 地址：中国北京清华大学教育基金会
-	- 邮政编码：100084
-	- Tsinghua University Education Foundation,
-	- Tsinghua University,
-	- Beijing 100084, China
-	- 注意：请在附言中注明捐赠用途“清华张大森民乐奖学金”
+- 地址：中国北京清华大学教育基金会
+- 邮政编码：100084
+- Tsinghua University Education Foundation,
+- Tsinghua University,
+- Beijing 100084, China
+- 注意：请在附言中注明捐赠用途“清华张大森民乐奖学金”
  
 ### 备注
 
