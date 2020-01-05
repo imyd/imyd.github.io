@@ -157,6 +157,7 @@
 	- 账号（港币）：778350013632
 
 ### 邮局汇款
+
 	- 地址：中国北京清华大学教育基金会
 	- 邮政编码：100084
 	- Tsinghua University Education Foundation,
