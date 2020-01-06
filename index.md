@@ -110,6 +110,7 @@
  - [X] [Secret Garden - Feat Ding Fei Fei - My Irish Friends](http://music.163.com/#/song?id=4278365) (已由Adel等演奏成功)
  - [ ] 仙剑奇侠传组曲
  - [X] 一个固定的<del>演出</del>排练场地 已由邢师兄解决~ 赞
+ - [ ] 拿个奥斯卡 [From Mao to Mozart: Isaac Stern in China](https://movie.douban.com/subject/1307593/)
 
 ## Gallery 图片集
 
