@@ -6,24 +6,12 @@
 <!-- 直播链接:  [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a) \| [B站](https://live.bilibili.com/21412369) \| [Youtube]() -->
 
 
-## Recordings 录音
+## Recordings / 录音
 
- - 2020/01/05 14:00 张大森先生纪念音乐会 清华大学蒙民伟楼多功能厅  [B站](https://www.bilibili.com/video/av82237312/) \| [A站](https://www.acfun.cn/v/ac12249029) \| [Youtube](https://youtu.be/4oUoX_ib7SI) 
+### Show / 演出
+- 2020/01/05 14:00 张大森先生纪念音乐会 清华大学蒙民伟楼多功能厅  [B站](https://www.bilibili.com/video/av82237312/) \| [A站](https://www.acfun.cn/v/ac12249029) \| [Youtube](https://youtu.be/4oUoX_ib7SI) 
     - 杨柳 [B站](https://www.bilibili.com/video/av82254616/) \| [A站](https://www.acfun.cn/v/ac12249308) \| [Youtube](https://youtu.be/onbsrCUaODs)
- - 2019/12/28 公开排练 [B站](https://www.bilibili.com/video/av81001642/) \| [A站](https://www.acfun.cn/v/ac12180775) \| [Youtube]()
- - 2019/12/21  公开排练
-   - 江楼望月 [B站](https://www.bilibili.com/video/av80192237/)  \| [A站](https://www.acfun.cn/v/ac12120212) \| [Youtube](https://youtu.be/M3BtjYIqJDM)
- - 2019/12/07  公开排练 [B站](https://www.bilibili.com/video/av78373772) \| [A站](https://www.acfun.cn/v/ac11879856) \| [Youtube](https://youtu.be/VTw2LB-j3i0)
- - 2019/11/30  公开排练 [B站](https://www.bilibili.com/video/av77706666/) \| [A站](https://www.acfun.cn/v/ac11805209) \| [Youtube](https://youtu.be/KOY3J-1g1Wo)
- - 2019/11/24  公开排练 [B站](https://www.bilibili.com/video/av76862668/) \| [A站](https://www.acfun.cn/v/ac11737519) \| [Youtube](https://youtu.be/5LJqGVy959E)
- - 2019/11/17  公开排练 [B站](https://www.bilibili.com/video/av76022694/) \| [Youtube](https://youtu.be/bXT0BwOK2M0)
- - 2019/10/20  公开排练 (5min Sample) [B站](https://www.bilibili.com/video/av76902492?p=2) \| [Youtube](https://youtu.be/6gUgQCwBOn4)
- - 2019/06/30  公开排练
-     - 《三六》: [B站](https://www.bilibili.com/video/av76902492?p=8) \| [Youtube](https://youtu.be/I5A5QdcD4gs) 
-     - 《敦煌》1/2: [B站](https://www.bilibili.com/video/av76902492?p=9) \| [Youtube](https://youtu.be/Oohj81Kv_JM)
-     - 《敦煌》2/2: [B站](https://www.bilibili.com/video/av76902492?p=10) \| [Youtube](https://youtu.be/Nul3gHfZDik)
- - 2019/05/19  公开排练 [Youtube](https://youtu.be/y-037P5b1zg)
- - 2019/04/27  清华大学108年校庆 音乐会 : [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
+- 2019/04/27  清华大学108年校庆 音乐会 : [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
 	 - B站: [草坪](https://www.bilibili.com/video/av76902492/) \| [《三六》](https://www.bilibili.com/video/av76902492?p=3) \| [上半场](https://www.bilibili.com/video/av76902492?p=4) \| [下半场](https://www.bilibili.com/video/av76902492?p=5) \| [花絮: 三重斗](https://www.bilibili.com/video/av76902492?p=6) \| [花絮: 张三丰](https://www.bilibili.com/video/av76902492?p=7) 
 	 - Youtube: [草坪](https://youtu.be/ZfZFJ5XqyDg) \| 《射雕英雄》[上半场](https://youtu.be/9jQuVqhq5T4) \| [下半场](https://youtu.be/n9vdhgXixJM) \| [《三六》](https://youtu.be/K8ZEa8cD7Bw)
  - 2018/04/28  清华大学蒙民伟楼
@@ -53,6 +41,22 @@
  - 2017/10/22《苏堤漫步》(中关村录音版) [网易](http://music.163.com/video?id=24CC37F72D430FB26753BC66E6555B29) [YouTube](https://youtu.be/Kr9GSKutAzo)
  - 史前时代: [THUMYD on Youku](https://i.youku.com/i/UMTQ1NTU2Njc2) \| [2009 - Google Sites](https://sites.google.com/site/mydtsinghua/)
 
+### Rehearsal / 公开排练
+
+ - 2019/12/28 公开排练 [B站](https://www.bilibili.com/video/av81001642/) \| [A站](https://www.acfun.cn/v/ac12180775) \| [Youtube]()
+ - 2019/12/21  公开排练
+   - 江楼望月 [B站](https://www.bilibili.com/video/av80192237/)  \| [A站](https://www.acfun.cn/v/ac12120212) \| [Youtube](https://youtu.be/M3BtjYIqJDM)
+ - 2019/12/07  公开排练 [B站](https://www.bilibili.com/video/av78373772) \| [A站](https://www.acfun.cn/v/ac11879856) \| [Youtube](https://youtu.be/VTw2LB-j3i0)
+ - 2019/11/30  公开排练 [B站](https://www.bilibili.com/video/av77706666/) \| [A站](https://www.acfun.cn/v/ac11805209) \| [Youtube](https://youtu.be/KOY3J-1g1Wo)
+ - 2019/11/24  公开排练 [B站](https://www.bilibili.com/video/av76862668/) \| [A站](https://www.acfun.cn/v/ac11737519) \| [Youtube](https://youtu.be/5LJqGVy959E)
+ - 2019/11/17  公开排练 [B站](https://www.bilibili.com/video/av76022694/) \| [Youtube](https://youtu.be/bXT0BwOK2M0)
+ - 2019/10/20  公开排练 (5min Sample) [B站](https://www.bilibili.com/video/av76902492?p=2) \| [Youtube](https://youtu.be/6gUgQCwBOn4)
+ - 2019/06/30  公开排练
+     - 《三六》: [B站](https://www.bilibili.com/video/av76902492?p=8) \| [Youtube](https://youtu.be/I5A5QdcD4gs) 
+     - 《敦煌》1/2: [B站](https://www.bilibili.com/video/av76902492?p=9) \| [Youtube](https://youtu.be/Oohj81Kv_JM)
+     - 《敦煌》2/2: [B站](https://www.bilibili.com/video/av76902492?p=10) \| [Youtube](https://youtu.be/Nul3gHfZDik)
+ - 2019/05/19  公开排练 [Youtube](https://youtu.be/y-037P5b1zg)
+ 
 ## Members 成员
 
 ### 打击声部
@@ -137,7 +141,7 @@
 - 赞助“知音雅集民乐团”，请直接与乐团团长联系： [刘沫](mailto:liumo@tsinghua.edu.cn)   `+86-10-62772155`
 - 捐赠“清华张大森民乐奖学金”，详情见下：
 
-### 清华张大森民乐奖学金
+### DASEN Scholarship / 清华张大森民乐奖学金
 
 [张大森先生](https://baike.baidu.com/item/%E5%BC%A0%E5%A4%A7%E6%A3%AE/23218678)是我国著名柳琴、琵琶演奏家、作曲家、指挥家、教育家，国家一级演奏员。中国音乐家协会会员、中国音协民族音乐委员会委员，中国广播民族乐团原团长，中国民族管弦乐学会常务理事，清华大学人文学院艺术发展顾问。1960年加入中国广播民族乐团，师从中国当代杰出民族音乐大师彭修文以及琵琶专家俞良模。
 
@@ -147,7 +151,7 @@
 
 请大家慷慨解囊，多多支持这一奖学金。捐赠由[清华教育基金会](http://www.tuef.tsinghua.edu.cn/)负责接收，如有任何问题，请联系乐团团长，或查阅清华教育基金会基金会的[相关页面](http://www.tuef.tsinghua.edu.cn/column/problem)。具体捐赠方法如下：
 
-#### BB 银行转账
+#### Wire Transfer / 银行转账
 
 清华大学教育基金会现有人民币、港币、美元三个币种的帐户。
 捐款请务必注明捐赠用途“清华张大森民乐奖学金”
@@ -164,7 +168,7 @@
 	- 账号（美元）：778350027226
 	- 账号（港币）：778350013632
 
-#### 邮局汇款
+#### Postal Money Transfer / 邮局汇款
 - 中文：
 	- 地址：中国北京清华大学教育基金会
 	- 邮政编码：100084
