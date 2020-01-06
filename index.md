@@ -154,19 +154,18 @@
 #### Wire Transfer / 银行转账
 
 清华大学教育基金会现有人民币、港币、美元三个币种的帐户。
-捐款请务必注明捐赠用途“清华张大森民乐奖学金”
 
 - 人民币
 	- 户名：清华大学教育基金会
 	- 开户行：中国工商银行北京分行海淀西区支行
 	- 帐号：0200004509014447265
-
-- 港币、美元
+- 外币（港币、美元）：
 	- 户名：清华大学教育基金会（Tsinghua University Education Foundation）
 	- 开户行：中国银行总行营业部（Bank of China, Head Office）
 	- Swift Bank Code: BKCH CNBJ
 	- 账号（美元）：778350027226
 	- 账号（港币）：778350013632
+- 注意：**捐款请务必注明捐赠用途“清华张大森民乐奖学金”**
 
 #### Postal Money Transfer / 邮局汇款
 - 中文：
@@ -176,7 +175,7 @@
 	- Tsinghua University Education Foundation,
 	- Tsinghua University,
 	- Beijing 100084, China
-- 注意：请在附言中注明捐赠用途“清华张大森民乐奖学金”
+- 注意：**请在附言中注明捐赠用途“清华张大森民乐奖学金”**
  
 #### 备注
 
