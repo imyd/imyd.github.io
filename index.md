@@ -104,6 +104,8 @@
  - 2014-04    参加2014年校庆民乐草坪音乐会，独立担当下半场演出
  - 2013-12-22 参加在新清华学堂举办的“三声缘”二〇一四民族管弦乐新年音乐会，演奏民族交响乐《酒歌》([1](http://v.youku.com/v_show/id_XNjUxOTk4NTE2.html) [2](https://mp.weixin.qq.com/s/LcQgstu09LZ3BNkdZqX2KA))，并和清华大学民乐队一起演奏《瑶族舞曲》
 
+## Gallery 图片集
+
 ## Wish List
 
  - [ ] 西游记组曲
@@ -112,11 +114,12 @@
  - [X] 一个固定的<del>演出</del>排练场地 已由邢师兄解决~ 赞
  - [ ] 拿个奥斯卡 [From Mao to Mozart: Isaac Stern in China](https://movie.douban.com/subject/1307593/)
 
-## Gallery 图片集
+> 另外，有一个想法。感觉清华的同学应该利用自己专业技能来帮助中国民乐的发展。比如说物理系是否有声学专业？能否在乐器改良音色改变上做一些原创性的贡献？电子系信号专业的同学也可以协助啊？其实民乐的核心并不是简单地这些乐器本身。而是审美和传递的情感。如果有更好的乐器，应该可以有所升华。应该把清华民乐队变成这些新乐器的实验场。 -- Ken, 2020/01/06
 
 ## Publications 出版物
 
 ### Patents 专利
+
 
 ### Original Music Scores 原创作品
 
@@ -127,6 +130,7 @@
  - <https://github.com/dovecho/Jianpu>
  - <https://github.com/scateu/thumydscore>
  - <https://github.com/scateu/AutoCAB>
+
 
 ## Contacts 联系方式
 
