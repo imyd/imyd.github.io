@@ -6,7 +6,7 @@
 <!-- 直播链接:  [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a) \| [B站](https://live.bilibili.com/21412369) \| [Youtube]() -->
 
 
-## Recordings
+## Recordings 录音
 
  - 2020/01/05 14:00 张大森先生纪念音乐会 清华大学蒙民伟楼多功能厅  [B站](https://www.bilibili.com/video/av82237312/) \| [A站](https://www.acfun.cn/v/ac12249029) \| [Youtube](https://youtu.be/4oUoX_ib7SI) 
     - 杨柳 [B站](https://www.bilibili.com/video/av82254616/) \| [A站](https://www.acfun.cn/v/ac12249308) \| [Youtube](https://youtu.be/onbsrCUaODs)
@@ -53,7 +53,7 @@
  - 2017/10/22《苏堤漫步》(中关村录音版) [网易](http://music.163.com/video?id=24CC37F72D430FB26753BC66E6555B29) [YouTube](https://youtu.be/Kr9GSKutAzo)
  - 史前时代: [THUMYD on Youku](https://i.youku.com/i/UMTQ1NTU2Njc2) \| [2009 - Google Sites](https://sites.google.com/site/mydtsinghua/)
 
-## Members
+## Members 成员
 
 ### 打击声部
 
@@ -74,7 +74,7 @@
 关晓娜(钢琴)
 
 
-## History
+## History 历史沿革
 
 “知音雅集”清华校友民乐团成立于2013年7月，由清华大学民乐队的校友发起组建，是一支以清华校友为主体、多所院校校友共同合作组建的业余民族管弦乐团。 清华校友民乐团建制齐全、表演风格多样，团员们怀着对音乐的热忱，利用业余时间，排练和演出了多首合奏和独奏曲目，如民族管弦乐作品《酒歌》《红楼梦组曲》，民族器乐小合奏《战马奔腾》《弹词韵》《葡萄熟了》等等，在追求音乐梦想的同时，为大学校园与校友之间的交流搭起一座音乐之桥。
 
@@ -105,30 +105,32 @@
  - [ ] 西游记组曲
  - [X] [Secret Garden - Feat Ding Fei Fei - My Irish Friends](http://music.163.com/#/song?id=4278365) (已由Adel等演奏成功)
  - [ ] 仙剑奇侠传组曲
- - [ ] 一个固定的演出场地
+ - [X] 一个固定的演出场地 已由邢师兄解决~ 赞
 
-## Gallery
+## Gallery 图片集
 
-## Publications
+## Publications 出版物
 
-### Patents
+### Patents 专利
 
-### Original Music Scores
+### Original Music Scores 原创作品
 
-## Projects
+还没
+
+## Projects 开源项目
 
  - <https://github.com/dovecho/Jianpu>
  - <https://github.com/scateu/thumydscore>
  - <https://github.com/scateu/AutoCAB>
 
-## Contact
+## Contacts 联系方式
 
  - 乐团联系邮箱 [minyue@tsinghua.org.cn](mailto:minyue@tsinghua.org.cn)
  - 微信公众号 [zhiyinyaji](https://mp.weixin.qq.com/profile?src=3&timestamp=1514265414&ver=1&signature=hD5GFib0g7XCEZO9N-I*toqXEqLqbKZSHXyWO-Og-iLVH-W4KRi0RHQCUJHWoy4lMBdNbKBWMQOH-c2whWPhQw==)
  - 团长: [刘沫](mailto:liumo@tsinghua.edu.cn)   `+86-10-62772155`
  - 如本页面需要更新，请联系[王康](mailto:scateu@gmail.com?subject=知音雅集GitHub Pages更新请求)
 
-## Donation (本段文字审核中)
+## Donation 捐赠方式
 
 如果您热爱音乐，热爱民族音乐，支持我们乐团的发展、支持民族音乐的发展，请您慷慨解囊！乐队的发展亟需社会各界人士的大力支持，新生代人才的培养也需要各位鼎力相助。目前，乐团接收捐赠有两个途径：
 
