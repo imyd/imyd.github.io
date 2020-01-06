@@ -131,23 +131,23 @@
 
  - 乐团联系邮箱 [minyue@tsinghua.org.cn](mailto:minyue@tsinghua.org.cn)
  - 微信公众号 [zhiyinyaji](https://mp.weixin.qq.com/profile?src=3&timestamp=1514265414&ver=1&signature=hD5GFib0g7XCEZO9N-I*toqXEqLqbKZSHXyWO-Og-iLVH-W4KRi0RHQCUJHWoy4lMBdNbKBWMQOH-c2whWPhQw==)
- - 团长: [刘沫](mailto:minyue@tsinghua.org.cn)
+ - 团长: [刘沫](mailto:liumo@tsinghua.edu.cn)
  - 如本页面需要更新，请联系[王康](mailto:scateu@gmail.com?subject=知音雅集GitHub Pages更新请求)
 
 ## Donation 捐赠方式
 
 如果您热爱音乐，热爱民族音乐，支持我们乐团的发展、支持民族音乐的发展，请您慷慨解囊！乐队的发展亟需社会各界人士的大力支持，新生代人才的培养也需要各位鼎力相助。目前，乐团接收捐赠有两个途径：
 
-- 赞助“知音雅集民乐团”，请直接与[乐团团长](mailto:minyue@tsinghua.org.cn)
-- 捐赠“清华张大森民乐奖学金”，详情见下：
+- 赞助“知音雅集民乐团”，请直接与[乐团团长](mailto:liumo@tsinghua.edu.cn)
+- 捐赠“清华大学学生艺术团张大森民乐奖”，详情见下：
 
-### DASEN Scholarship / 清华张大森民乐奖学金
+### DASEN Scholarship / 清华大学学生艺术团张大森民乐奖
 
 [张大森先生](https://baike.baidu.com/item/%E5%BC%A0%E5%A4%A7%E6%A3%AE/23218678)是我国著名柳琴、琵琶演奏家、作曲家、指挥家、教育家，国家一级演奏员。中国音乐家协会会员、中国音协民族音乐委员会委员，中国广播民族乐团原团长，中国民族管弦乐学会常务理事，清华大学人文学院艺术发展顾问。1960年加入中国广播民族乐团，师从中国当代杰出民族音乐大师彭修文以及琵琶专家俞良模。
 
 他曾长期担任[清华大学学生艺术团](https://www.tsinghua.edu.cn/publish/arts/index.html)民乐队指挥，执棒25年，带领乐队演出33场，6次在各类大学生艺术展演中获得金奖，获得“首都大学生民族管弦乐团”称号。他是我们的“森哥”，在蒙楼跟大家一起排练的时间达3000小时以上，算上来回路程，有5000小时之多。
 
-为缅怀这样我们尊敬的师长、指挥、朋友，将他对音乐的严谨、热爱和执着的精神在清华大学里继续传承下去，由“知音雅集民乐团”倡议、并带头捐赠设立了“清华张大森民乐奖学金”。该奖学金由[清华教育基金会](http://www.tuef.tsinghua.edu.cn/)、[共青团清华大学委员会](https://www.tsinghua.edu.cn/publish/xtw/4813/index.html)管理，以留存本金的方式永久支持，将每年利息作为奖学金，奖励“热爱民乐、关心集体”的在校艺术团民乐队队员。截至2019年底，捐款总计已达12万余元，目前已奖励了一名学生。
+为缅怀这样我们尊敬的师长、指挥、朋友，将他对音乐的严谨、热爱和执着的精神在清华大学里继续传承下去，由“知音雅集民乐团”倡议、并带头捐赠设立了“清华大学学生艺术团张大森民乐奖”。该奖学金由[清华教育基金会](http://www.tuef.tsinghua.edu.cn/)、[共青团清华大学委员会](https://www.tsinghua.edu.cn/publish/xtw/4813/index.html)管理，以留存本金的方式永久支持，将每年利息作为奖学金，奖励“热爱民乐、关心集体”的在校艺术团民乐队队员。截至2019年底，捐款总计已达12万余元，目前已奖励了一名学生。
 
 请大家慷慨解囊，多多支持这一奖学金。捐赠由[清华教育基金会](http://www.tuef.tsinghua.edu.cn/)负责接收，如有任何问题，请联系乐团团长，或查阅清华教育基金会基金会的[相关页面](http://www.tuef.tsinghua.edu.cn/column/problem)。具体捐赠方法如下：
 
@@ -165,7 +165,7 @@
 	- Swift Bank Code: BKCH CNBJ
 	- 账号（美元）：778350027226
 	- 账号（港币）：778350013632
-- 注意：**捐款请务必注明捐赠用途“清华张大森民乐奖学金”**
+- 注意：**捐款请务必注明捐赠用途“清华大学学生艺术团张大森民乐奖”**
 
 #### Postal Money Transfer / 邮局汇款
 - 中文：
@@ -175,14 +175,14 @@
 	- Tsinghua University Education Foundation,
 	- Tsinghua University,
 	- Beijing 100084, China
-- 注意：**请在附言中注明捐赠用途“清华张大森民乐奖学金”**
+- 注意：**请在附言中注明捐赠用途“清华大学学生艺术团张大森民乐奖”**
  
-#### 备注
+#### Remarks / 备注
 
 如您捐赠达到一定额度（捐赠10万元以上，要签订捐赠协议），可以考虑线下捐赠。请随时与清华大学教育基金会联系，电话：010-62785959。
 
 
-## 民乐队网上博物馆
+## Online Museum / 民乐队网上博物馆
 
 <del>建好了</del> 建设中
 
