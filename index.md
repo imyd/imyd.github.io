@@ -109,7 +109,7 @@
  - [ ] 西游记组曲
  - [X] [Secret Garden - Feat Ding Fei Fei - My Irish Friends](http://music.163.com/#/song?id=4278365) (已由Adel等演奏成功)
  - [ ] 仙剑奇侠传组曲
- - [X] 一个固定的演出场地 已由邢师兄解决~ 赞
+ - [X] 一个固定的<del>演出</del>排练场地 已由邢师兄解决~ 赞
 
 ## Gallery 图片集
 
@@ -131,14 +131,14 @@
 
  - 乐团联系邮箱 [minyue@tsinghua.org.cn](mailto:minyue@tsinghua.org.cn)
  - 微信公众号 [zhiyinyaji](https://mp.weixin.qq.com/profile?src=3&timestamp=1514265414&ver=1&signature=hD5GFib0g7XCEZO9N-I*toqXEqLqbKZSHXyWO-Og-iLVH-W4KRi0RHQCUJHWoy4lMBdNbKBWMQOH-c2whWPhQw==)
- - 团长: [刘沫](mailto:liumo@tsinghua.edu.cn)   `+86-10-62772155`
+ - 团长: [刘沫](mailto:minyue@tsinghua.org.cn)
  - 如本页面需要更新，请联系[王康](mailto:scateu@gmail.com?subject=知音雅集GitHub Pages更新请求)
 
 ## Donation 捐赠方式
 
 如果您热爱音乐，热爱民族音乐，支持我们乐团的发展、支持民族音乐的发展，请您慷慨解囊！乐队的发展亟需社会各界人士的大力支持，新生代人才的培养也需要各位鼎力相助。目前，乐团接收捐赠有两个途径：
 
-- 赞助“知音雅集民乐团”，请直接与乐团团长联系： [刘沫](mailto:liumo@tsinghua.edu.cn)   `+86-10-62772155`
+- 赞助“知音雅集民乐团”，请直接与[乐团团长](mailto:minyue@tsinghua.org.cn)
 - 捐赠“清华张大森民乐奖学金”，详情见下：
 
 ### DASEN Scholarship / 清华张大森民乐奖学金
