@@ -89,7 +89,7 @@
  - 2018-04-27 参加[“廿载归来，从心出发”清华大学1998届毕业20周年纪念庆典](http://news.tsinghua.edu.cn/publish/thunews/11489/2018/20180429204847542100183/20180429204847542100183_.html)
  - 2018-04-28 举办[“国乐知音”校庆专场音乐会](http://www.tsinghua.org.cn/publish/alumni/4000346/12172091.html?from=timeline&isappinstalled=0)
  - 2018-04-28 参加[2018年校庆民乐草坪音乐会](http://news.tsinghua.edu.cn/publish/thunews/11489/2018/20180502185234601503252/20180502185234601503252_.html)，担当半场演出
- - 2017-12-24 举办[“红楼梦江南”沙龙音乐会](https://mp.weixin.qq.com/s?timestamp=1514267956&src=3&ver=1&signature=1AmSeWWO7*A4fGPuEIkzXPv54NaW4i7AgzoqCT-8rHtOOLWkmCRa8trX-n3IYw5D38Ph4mvuSq1oCG*mcZmu8FDb4w3DBuAhM2QHCU9WRgh9eqcR-D5VcJvyS6DiVHS5J7ec44nCl098dWphED-Re-T6lXs6ottKOLcn5OFu5qg=)
+ - 2017-12-24 举办[“红楼梦江南”沙龙音乐会](https://mp.weixin.qq.com/s/Ns9XlNZBw-edpzyxSJSJFw)，（[上](https://mp.weixin.qq.com/s/1dCffoVvUNMOW_W095wfGg)，[下](https://mp.weixin.qq.com/s/q5d2uP_TukfPU7nl7JrIOQ)）
  - 2017-12-22 参加[国家大剧院: “十年——艺路有你”会员活动](https://m.weibo.cn/status/4187711537133573)
  - 2017-04-30 参加“人文清华 源远流长”清华经典名篇朗诵音乐会
  - 2017-04    参加[2017年校庆民乐草坪音乐会](http://www.tsinghua.org.cn/publish/alumni/4000343/11437298.html)，担当半场演出
@@ -173,6 +173,7 @@
 - 注意：**捐款请务必注明捐赠用途“清华大学学生艺术团张大森民乐奖”**
 
 #### Postal Money Transfer / 邮局汇款
+
 - 中文：
 	- 地址：中国北京清华大学教育基金会
 	- 邮政编码：100084
