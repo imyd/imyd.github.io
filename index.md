@@ -119,6 +119,8 @@
 
 ## Publications 出版物
 
+eg: <http://soundmedia.jp/nuaudk/>
+
 ### Patents 专利
 
 
