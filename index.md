@@ -9,6 +9,9 @@
 ## Recordings / 录音
 
 ### Show / 演出
+- 2020/04 云演出 / Virtual Concert
+    - 红楼梦组曲-晴雯歌/The Song of Qing Wen [Youtube](https://www.youtube.com/watch?v=FMQz-1PhyTs)
+    - 月儿高/The Moon on High [Youtube](https://www.youtube.com/watch?v=S86r8aNxZy8)
 - 2020/01/05 14:00 张大森先生纪念音乐会 清华大学蒙民伟楼多功能厅  [B站](https://www.bilibili.com/video/av82237312/) \| [A站](https://www.acfun.cn/v/ac12249029) \| [Youtube](https://youtu.be/4oUoX_ib7SI) 
     - 杨柳 [B站](https://www.bilibili.com/video/av82254616/) \| [A站](https://www.acfun.cn/v/ac12249308) \| [Youtube](https://youtu.be/onbsrCUaODs)
 - 2019/04/27  清华大学108年校庆 音乐会 : [百度云](https://pan.baidu.com/s/11ezwdJayw_K_XqUIQjaEgA) 
