@@ -5,6 +5,9 @@
 
 <!-- 直播链接:  [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a) \| [B站](https://live.bilibili.com/21412369) \| [Youtube]() -->
 
+## Next Event
+
+ - 2020/08/22 13:00 - 17:00 OpenMic & 公开排练: <http://lt.365hour.com:32080/stream.m3u>
 
 
 ## Recordings / 录音
