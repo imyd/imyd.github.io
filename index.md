@@ -7,7 +7,7 @@
 
 ## Next Event
 
- - 2020/08/22 13:00 - 17:00 OpenMic & 公开排练: [128kbps Audio Live](http://lt.365hour.com:32080/stream.m3u) \| [回放]()
+ - 2020/08/22 13:00 - 17:00 OpenMic & 公开排练: [128kbps HiFi Audio Live](http://lt.365hour.com:32080/stream.m3u) \| [回放]()
 
 
 ## Recordings / 录音
