@@ -12,6 +12,7 @@
 
 ## Recordings / 录音
 
+ - [Open Mic, Podcast](http://openmic.scateu.me)
 
 ### Show / 演出
 - 2020/04 云演出 / Virtual Concert
