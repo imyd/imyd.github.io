@@ -7,11 +7,13 @@
 
 ## Next Event
 
- - Open Mic, 大师课: 维奥尔琴简史: [Youtube](https://youtu.be/quSu7a8RLJk) \| [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a)
+ - Open Mic & 大师课: 维奥尔琴简史: [Youtube](https://youtu.be/quSu7a8RLJk) \| [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a)
 
 ## Recordings / 录音
 
- - [Open Mic, Podcast](http://openmic.scateu.me)
+## Podcast: 知音雅集 Open Mic
+
+ - <http://openmic.scateu.me> : [RSS订阅](http://openmic.scateu.me/feed.xml) \| [iTunes美区](https://podcasts.apple.com/us/podcast/%E7%9F%A5%E9%9F%B3%E9%9B%85%E9%9B%86-open-mic/id1530890714) 
 
 ### Show / 演出
 - 2020/04 云演出 / Virtual Concert
