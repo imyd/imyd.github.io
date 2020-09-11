@@ -7,8 +7,7 @@
 
 ## Next Event
 
- - 2020/08/22 13:00 - 17:00 OpenMic & 公开排练: [128kbps HiFi Audio Live](http://lt.365hour.com:32080/stream) \| [回放]()
-
+ - Open Mic, 大师课: 维奥尔琴简史: [Youtube](https://youtu.be/quSu7a8RLJk) \| [快手](https://live.kuaishou.com/u/3xavb92m3x97w7a)
 
 ## Recordings / 录音
 
