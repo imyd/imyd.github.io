@@ -15,7 +15,7 @@
 
  - <http://openmic.scateu.me> : [RSS订阅](http://openmic.scateu.me/feed.xml) \| [iTunes美区](https://podcasts.apple.com/us/podcast/%E7%9F%A5%E9%9F%B3%E9%9B%85%E9%9B%86-open-mic/id1530890714) 
 
-### Show / 演出
+### Performence / 演出
 - 2020/04 云演出 / Virtual Concert
     - 红楼梦组曲 - 晴雯歌 / The Song of Qing Wen [Youtube](https://www.youtube.com/watch?v=FMQz-1PhyTs) \| [B站](https://www.bilibili.com/video/BV1SQ4y1P7dJ) \| [A站](https://www.acfun.cn/v/ac15023218)
     - 月儿高/The Moon on High [Youtube](https://www.youtube.com/watch?v=S86r8aNxZy8) \|[B站](https://www.bilibili.com/video/BV1rg4y1z79L/) \| [A站](https://www.acfun.cn/v/ac15023218_2)
