@@ -11,7 +11,7 @@
 ### Open Mic
 
  - [Podcast](http://openmic.scateu.me) - [RSS订阅](http://openmic.scateu.me/feed.xml) \| [iTunes美区](https://podcasts.apple.com/us/podcast/%E7%9F%A5%E9%9F%B3%E9%9B%85%E9%9B%86-open-mic/id1530890714) 
- - 2020/09/12 Open Mic E04 冯洲:维奥尔琴简史 -  [Youtube](https://www.youtube.com/watch?v=NTtUuGucBR4) \| [A站](https://www.acfun.cn/v/ac17862029) \| [B站](https://www.bilibili.com/video/BV1Ay4y1y7NC/)
+ - 2020/09/12 Open Mic E04 冯洲:维奥尔琴简史 <del> [Youtube](https://www.youtube.com/watch?v=NTtUuGucBR4) \| [A站](https://www.acfun.cn/v/ac17862029) \| [B站](https://www.bilibili.com/video/BV1Ay4y1y7NC/) </del>
 
 ### Performance / 演出
 
