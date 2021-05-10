@@ -8,11 +8,6 @@
 
 ## Recordings / 录音
 
-### Open Mic
-
- - [Podcast](http://openmic.scateu.me) - [RSS订阅](http://openmic.scateu.me/feed.xml) \| [iTunes美区](https://podcasts.apple.com/us/podcast/%E7%9F%A5%E9%9F%B3%E9%9B%85%E9%9B%86-open-mic/id1530890714) 
- - 2020/09/12 Open Mic E04 冯洲:维奥尔琴简史 <del> [Youtube](https://www.youtube.com/watch?v=NTtUuGucBR4) \| [A站](https://www.acfun.cn/v/ac17862029) \| [B站](https://www.bilibili.com/video/BV1Ay4y1y7NC/) </del>
-
 ### Performance / 演出
 
 - 2021/04 八仙过海 [B站链接](https://m.bilibili.com/video/BV1oy4y1W7Ce)。参加古乐知美活动，获[优秀奖](https://www.bilibili.com/read/mobile?id=11174190)。
@@ -56,6 +51,11 @@
 	 - 《红楼梦组曲-紫菱洲歌》 [网易](http://music.163.com/video?id=2B6D96370AFD1ACCD0CA789F21EB8E4F) [YouTube](https://youtu.be/3NQAL0JtqQw)
  - 2017/10/22《苏堤漫步》(中关村录音版) [网易](http://music.163.com/video?id=24CC37F72D430FB26753BC66E6555B29) [YouTube](https://youtu.be/Kr9GSKutAzo)
  - 史前时代: [THUMYD on Youku](https://i.youku.com/i/UMTQ1NTU2Njc2) \| [2009 - Google Sites](https://sites.google.com/site/mydtsinghua/)
+
+### Open Mic
+
+ - [Podcast](http://openmic.scateu.me) - [RSS订阅](http://openmic.scateu.me/feed.xml) \| [iTunes美区](https://podcasts.apple.com/us/podcast/%E7%9F%A5%E9%9F%B3%E9%9B%85%E9%9B%86-open-mic/id1530890714) 
+ - 2020/09/12 Open Mic E04 冯洲:维奥尔琴简史 <del> [Youtube](https://www.youtube.com/watch?v=NTtUuGucBR4) \| [A站](https://www.acfun.cn/v/ac17862029) \| [B站](https://www.bilibili.com/video/BV1Ay4y1y7NC/) </del>
 
 ### Rehearsal / 公开排练
 
