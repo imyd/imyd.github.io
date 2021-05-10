@@ -15,6 +15,8 @@
 
 ### Performance / 演出
 
+- 2021/04 八仙过海 [B站链接](https://m.bilibili.com/video/BV1oy4y1W7Ce)。参加古乐知美活动，获[优秀奖](https://www.bilibili.com/read/mobile?id=11174190)。
+    - [清华校友总会视频号链接]() TODO
 - 2020/04 云演出 / Virtual Concert
     - 红楼梦组曲 - 晴雯歌 / The Song of Qing Wen [Youtube](https://www.youtube.com/watch?v=FMQz-1PhyTs) \| [B站](https://www.bilibili.com/video/BV1SQ4y1P7dJ) \| [A站](https://www.acfun.cn/v/ac15023218)
     - 月儿高/The Moon on High [Youtube](https://www.youtube.com/watch?v=S86r8aNxZy8) \|[B站](https://www.bilibili.com/video/BV1rg4y1z79L/) \| [A站](https://www.acfun.cn/v/ac15023218_2)
