@@ -10,7 +10,7 @@
 
 ### Performance / 演出
 
-- 2021/04 八仙过海 [B站链接](https://m.bilibili.com/video/BV1oy4y1W7Ce)。参加古乐知美活动，获[优秀奖](https://www.bilibili.com/read/mobile?id=11174190)。
+- 2021/04 [八仙过海](https://m.bilibili.com/video/BV1oy4y1W7Ce)。参加B站"古乐知美"活动，获民乐合奏"赛道"[优秀奖](https://www.bilibili.com/read/mobile?id=11174190)第一名。
     - [清华校友总会视频号链接]() TODO
 - 2020/04 云演出 / Virtual Concert
     - 红楼梦组曲 - 晴雯歌 / The Song of Qing Wen [Youtube](https://www.youtube.com/watch?v=FMQz-1PhyTs) \| [B站](https://www.bilibili.com/video/BV1SQ4y1P7dJ) \| [A站](https://www.acfun.cn/v/ac15023218)
@@ -165,48 +165,7 @@ eg: <http://soundmedia.jp/nuaudk/>
 如果您热爱音乐，热爱民族音乐，支持我们乐团的发展、支持民族音乐的发展，请您慷慨解囊！乐队的发展亟需社会各界人士的大力支持，新生代人才的培养也需要各位鼎力相助。目前，乐团接收捐赠有两个途径：
 
 - 赞助“知音雅集民乐团”，请直接与[乐团团长](mailto:liumo@tsinghua.edu.cn)联系
-- 捐赠“清华大学学生艺术团张大森民乐奖”，详情见下：
 
-### DASEN Scholarship / 清华大学学生艺术团张大森民乐奖
-
-[张大森先生](https://baike.baidu.com/item/%E5%BC%A0%E5%A4%A7%E6%A3%AE/23218678)是我国著名柳琴、琵琶演奏家、作曲家、指挥家、教育家，国家一级演奏员。中国音乐家协会会员、中国音协民族音乐委员会委员，中国广播民族乐团原团长，中国民族管弦乐学会常务理事，清华大学人文学院艺术发展顾问。1960年加入中国广播民族乐团，师从中国当代杰出民族音乐大师彭修文以及琵琶专家俞良模。
-
-他曾长期担任[清华大学学生艺术团](https://www.tsinghua.edu.cn/publish/arts/index.html)民乐队指挥，执棒25年，带领乐队演出33场，6次在各类大学生艺术展演中获得金奖，获得“首都大学生民族管弦乐团”称号。他是我们的“森哥”，在蒙楼跟大家一起排练的时间达3000小时以上，算上来回路程，有5000小时之多。
-
-为缅怀这样我们尊敬的师长、指挥、朋友，将他对音乐的严谨、热爱和执着的精神在清华大学里继续传承下去，“知音雅集”清华校友民乐团倡议并募集款项12万余元，在[清华教育基金会](http://www.tuef.tsinghua.edu.cn/)设立专户，本金不动，将每年的收益作为奖金设立奖学金，奖励“热爱民乐、关心集体”的清华大学学生艺术团在校的民乐队队员。该奖学金由[共青团清华大学委员会](https://www.tsinghua.edu.cn/publish/xtw/4813/index.html)负责评定发放，目前已有一名学生获奖。
-
-请大家慷慨解囊，多多支持这一奖学金。捐赠由[清华教育基金会](http://www.tuef.tsinghua.edu.cn/)负责接收，如有任何问题，请联系乐团团长，或查阅清华教育基金会基金会的[相关页面](http://www.tuef.tsinghua.edu.cn/column/problem)。具体捐赠方法如下：
-
-#### Wire Transfer / 银行转账
-
-清华大学教育基金会现有人民币、港币、美元三个币种的帐户。
-
-- 人民币
-	- 户名：清华大学教育基金会
-	- 开户行：中国工商银行北京分行海淀西区支行
-	- 帐号：0200004509014447265
-- 外币（港币、美元）：
-	- 户名：清华大学教育基金会（Tsinghua University Education Foundation）
-	- 开户行：中国银行总行营业部（Bank of China, Head Office）
-	- Swift Bank Code: BKCH CNBJ
-	- 账号（美元）：778350027226
-	- 账号（港币）：778350013632
-- 注意：**捐款请务必注明捐赠用途“清华大学学生艺术团张大森民乐奖”**
-
-#### Postal Money Transfer / 邮局汇款
-
-- 中文：
-	- 地址：中国北京清华大学教育基金会
-	- 邮政编码：100084
-- 英文
-	- Tsinghua University Education Foundation,
-	- Tsinghua University,
-	- Beijing 100084, China
-- 注意：**请在附言中注明捐赠用途“清华大学学生艺术团张大森民乐奖”**
-
-#### Remarks / 备注
-
-如您捐赠达到一定额度（捐赠10万元以上，要签订捐赠协议），可以考虑线下捐赠。请随时与清华大学教育基金会联系，电话：010-62785959。
 
 
 ## Online Museum / 民乐队网上博物馆
