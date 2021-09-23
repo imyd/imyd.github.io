@@ -9,7 +9,7 @@
 ## Recordings / 录音
 
 ### Performance / 演出
-
+- 2021/09 [《千里共婵娟》中秋音乐会](https://www.bilibili.com/video/BV1A34y1D7pZ) 某校艺术博物馆
 - 2021/04 [八仙过海](https://m.bilibili.com/video/BV1oy4y1W7Ce)。参加B站"古乐知美"活动，获“民乐合奏”赛道[优秀奖](https://www.bilibili.com/read/mobile?id=11174190)第一名。
     - [清华校友总会视频号链接]() TODO
 - 2020/04 云演出 / Virtual Concert
